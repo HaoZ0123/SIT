@@ -1,2 +1,2 @@
 # SIT
-Some assignments in Stevens Institute of Technology
+Some of my assignments in Stevens Institute of Technology
